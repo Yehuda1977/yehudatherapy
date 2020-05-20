@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "yehuda-therapy",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Website for Yehuda therapy practice",
   "engines": {
     "node": "12.x"
   },
