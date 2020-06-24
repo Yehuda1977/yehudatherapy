@@ -1,27 +1,25 @@
-.jumbotron {
-  background: #532F8C;
+body {
+  background-image: url(https://stillmed.olympic.org/media/Images/OlympicOrg/News/2019/12/11/2019-12-11-mountain-day-featured-01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  background-size: cover;
+ } 
+ 
+.alert {
+  font-size: 1.5em;
+}
+
+
+.jumbo {
+  
+  background: transparent;
   color: white;
-  padding-bottom: 80px; }
-  .jumbotron .btn-primary {
-    background: #845ac7;
-    border-color: #845ac7; }
-    .jumbotron .btn-primary:hover {
-      background: #7646c1; }
+  padding-bottom: 40px; }
   .jumbotron p {
-    color: #d9ccee;
+    /* color: black; */
+    font-size: 2.5em;
     max-width: 75%;
     margin: 1em auto 2em; }
-  .navbar + .jumbotron {
-    margin-top: -20px; }
-  .jumbotron .lang-logo {
-    display: block;
-    background: #B01302;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid white; }
-    .jumbotron .lang-logo img {
-      max-width: 100%; }
 
+  
